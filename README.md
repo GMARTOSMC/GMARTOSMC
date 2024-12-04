@@ -1,4 +1,6 @@
-## Hi there 👋
+![Header](./img/gonzalo_header.png)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=98F73A&width=435&lines=S%C3%A9+la+mejor+versi%C3%B3n+de+t%C3%AD+mismo)](https://git.io/typing-svg)
 
 <!--
 **GMARTOSMC/GMARTOSMC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Bienvenido a mi Github. Soy Gonzalo Martos 
+
+Actualmente estudio Administración de Sistemas Informáticos en Red en el IES El Bohío. 🙆‍♂️
+
