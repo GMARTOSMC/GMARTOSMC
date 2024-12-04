@@ -82,9 +82,6 @@ Auditoría de Seguridad en sistemas Linux y Windows realizada con Nesus, Clara y
 Creación de Servidor DHCP en máquina Ubuntu para asignar automaticamente las IPs al resto de máquinas en la red local.
 
 
+# Información de Contacto
 
-
-
-
-
-
+Puedes contactar conmigo enviando un email a [gmartos1996@gmail.com](mailto:gmartos1996@gmail.com)
