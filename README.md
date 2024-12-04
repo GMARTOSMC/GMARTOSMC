@@ -4,15 +4,10 @@
 
 # Bienvenido a mi Github. Soy Gonzalo Martos 
 
-Actualmente estudio Administración de Sistemas Informáticos en Red en el IES El Bohío. 🙆‍♂️
+Estoy muy interesado en el desarrollo de software, particularmente en full stack, videojeugos e inteligencia artificial. También en la seguridad informática, particularmente forense y pentesting. Actualmente estudio Administración de Sistemas Informáticos en Red en el IES El Bohío. 🙆‍♂️
 
-# Habilidades y tecnologías
+# Mi Stack :man_technologist:
 
-En estos dos años he aprendido una interesante cantidad de habilidades y herramientas, en los campos del desarrollo de software, la seguridad informática y la administración de sistemas. A contibuación Pongo mi Stack:
-
-
-
-<h2>Mi Stack :man_technologist:</h2>
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
@@ -36,8 +31,12 @@ En estos dos años he aprendido una interesante cantidad de habilidades y herram
       <br>MySQL
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C#
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
+      <br>Docker
     </td>
   </tr>
   <tr>
@@ -46,25 +45,80 @@ En estos dos años he aprendido una interesante cantidad de habilidades y herram
       <br>Github
     </td>
     <td align="center" width="96"> 
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="icon" />
       <br>Git
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="icon" />
       <br>HTML5
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="icon" />
       <br>CSS
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="icon" />
       <br>Bootstrap
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=obsidian" width="48" height="48" alt="bootstrap" />
+      <br>Obsidian
+    </td>
+    </tr>
+    <tr>
+    <td align="center"  width="96">
+       <img src="https://skillicons.dev/icons?i=godot" width="48" height="48" alt="icon" />
+      <br>Godot
+    </td>
+    <td align="center"  width="96">
+      <img src="https://skillicons.dev/icons?i=unreal" width="48" height="48" alt="icon" />
+      <br>Unreal
+    </td>
+    <td align="center"  width="96">
+      <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="icon" />
+      <br>PHP
+    </td>
+    <td align="center"  width="96">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="icon" />
+      <br>VSCode
+    </td>
+    <td align="center"  width="96">
+      <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="icon" />
+      <br>Wordpress
+    </td>
+    <td align="center"  width="96">
+      <img src="https://skillicons.dev/icons?i=windows" width="48" height="48" alt="icon" />
+      <br>Windows
+    </td>
+    </tr>
+    <tr>
+    <td align="center"  width="96">
+      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="icon" />
+      <br>Linux
+    </td>
+    <td align="center"  width="96">
+      <img src="https://skillicons.dev/icons?i=kali" width="48" height="48" alt="icon" />
+      <br>Kali
+    </td>
+    <td align="center"  width="96">
+      <img src="https://skillicons.dev/icons?i=ubuntu" width="48" height="48" alt="icon" />
+      <br>Ubuntu
+    </td>
+    <td align="center"  width="96">
+      <img src="https://skillicons.dev/icons?i=debian" width="48" height="48" alt="icon" />
+      <br>Debian
+    </td>
+    <td align="center"  width="96">
+      <img src="https://skillicons.dev/icons?i=discord" width="48" height="48" alt="icon" />
+      <br>Discord
+    </td>
+    <td align="center"  width="96">
+      <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="icon" />
+      <br>Gmail
     </td>
     </tr>
     </table>
     </div>
-
 
 # Proyecos Destacados
 
