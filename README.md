@@ -4,7 +4,7 @@
 
 # Bienvenido a mi Github. Soy Gonzalo Martos 
 
-Estoy muy interesado en el desarrollo de software, particularmente en full stack, videojeugos e inteligencia artificial. También en la seguridad informática, particularmente forense y pentesting. Actualmente estudio Administración de Sistemas Informáticos en Red en el IES El Bohío. 🙆‍♂️
+Estoy muy interesado en el desarrollo de software, particularmente en full stack, videojuegos e inteligencia artificial. También en la seguridad informática, particularmente forense y pentesting. Actualmente estudio Administración de Sistemas Informáticos en Red en el IES El Bohío. 🙆‍♂️
 
 # Mi Stack :man_technologist:
 
