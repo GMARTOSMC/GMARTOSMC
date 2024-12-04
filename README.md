@@ -120,7 +120,7 @@ Estoy muy interesado en el desarrollo de software, particularmente en full stack
     </table>
     </div>
 
-# Proyecos Destacados
+# Proyectos Destacados
 
 ### Auditoría de Seguridad
 
