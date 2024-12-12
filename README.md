@@ -140,10 +140,11 @@ Creación de Servidor DHCP en máquina Ubuntu para asignar automaticamente las I
 
 Puedes contactar conmigo enviando un email a 
 
-<iframe
-  id="inlineFrameExample"
-  title="Inline Frame Example"
+<iframe>
+  id="cuestionario"
+  title="Cuestionario"
   width="640"
   height="526"
   src="https://docs.google.com/forms/d/e/1FAIpQLSdTPaivPkv3QMFc2V6YCM3eaSzsFfyR_6nn65nb2QdEEtyvoQ/viewform?embedded=true">
 </iframe>
+
