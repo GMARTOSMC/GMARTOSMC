@@ -138,13 +138,6 @@ Creación de Servidor DHCP en máquina Ubuntu para asignar automaticamente las I
 
 # Información de Contacto
 
-Puedes contactar conmigo enviando un email a 
+Puedes contactar conmigo a través de este formulario
 
-<iframe>
-  id="cuestionario"
-  title="Cuestionario"
-  width="640"
-  height="526"
-  src="https://docs.google.com/forms/d/e/1FAIpQLSdTPaivPkv3QMFc2V6YCM3eaSzsFfyR_6nn65nb2QdEEtyvoQ/viewform?embedded=true">
-</iframe>
-
+[Contacta conmigo](https://docs.google.com/forms/d/e/1FAIpQLSdTPaivPkv3QMFc2V6YCM3eaSzsFfyR_6nn65nb2QdEEtyvoQ/viewform?usp=sf_link)
